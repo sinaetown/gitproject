@@ -1,3 +1,4 @@
 first done
 add login feature
 testing feature from Beta.txt
+kakaotalk login feature added 
